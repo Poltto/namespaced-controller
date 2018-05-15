@@ -1,0 +1,3 @@
+json {
+    message "This is from namespace test1"
+}

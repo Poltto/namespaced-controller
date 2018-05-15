@@ -1,0 +1,3 @@
+json {
+    message "This is from all test-controllers"
+}
